@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-mvc-skeleton",
+    "name": "nopoco/laminas-mvc-skeleton",
     "description": "Laminas MVC Skeleton Application",
     "type": "project",
     "license": "BSD-3-Clause",
